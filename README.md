@@ -16,6 +16,11 @@ Walk through the main corridor and discover eight thematic sections — each wit
 
 Approach any bookshelf section to see the glowing section sign. Double-press **Space** to fly in, or press **E / Enter** to walk through the door.
 
+### Inside a Section — Shelf Room
+![Section Room](public/screenshots/section-room.png)
+
+Once inside, two rows of shelves hold all the section's books. Walk up to any book to see its Arabic title, English title, and author in a floating tooltip. Press **E / Enter** to open the full detail page. Ladders (the tall wooden structures) appear every 15 books and let you climb between shelf levels.
+
 ---
 
 ## Features
